@@ -39,4 +39,8 @@ That's it. She bops.
 
 ## License
 
-MIT © 2026 Tom
+MIT © 2026 Thomas Lane
+
+---
+
+Made with Claude CLI
